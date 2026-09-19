@@ -36,7 +36,7 @@ I am a Freelance Graphic Designer looking for job opportunities and projects! If
   </tr>
 </table>
 
-<hr style="border: none; border-top: 2px dashed #ccc; width: 80%; margin: 5px auto;">
+<hr style="border: none; border-top: 2px dashed #ccc; width: 40%; margin: 5px auto;">
 
 <table border="0">
   <tr>

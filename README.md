@@ -36,14 +36,14 @@ I am a Freelance Graphic Designer looking for job opportunities and projects! If
   </tr>
 </table>
 
-<hr style="border: none; border-top: 1px dashed #ffb6c1; box-shadow: none; width: 80%; margin: 20px auto;">
+<div style="border-top: 1px dashed #ffb6c1; width: 80%; margin: 30px auto;"></div>
 
 <table border="0">
   <tr>
     <td align="center"><a href="design-files/11.png"><img src="design-files/11.png" width="100%" alt="Design 1"></a></td>
     <td align="center"><a href="design-files/12.png"><img src="design-files/12.png" width="100%" alt="Design 2"></a></td>
     <td align="center"><a href="design-files/13.png"><img src="design-files/13.png" width="100%" alt="Design 3"></a></td>
-  </tr
+  </tr>
   <tr>
     <td align="center"><a href="design-files/14.jpg"><img src="design-files/14.jpg" width="100%" alt="Design 4"></a></td>
     <td align="center"><a href="design-files/15.png"><img src="design-files/15.png" width="100%" alt="Design 5"></a></td>

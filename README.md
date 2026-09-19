@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![My Logo](13.png)
+![My Logo](11.png)
 ![My Logo](10.png)
 <div align="center">
   <a href="https://raw.githubusercontent.com/tamunatogo-design/tamunatogo-design/main/Free-Business-Card-with-Flower-Mockup-01%20copy%20(2)_260906002709.png">

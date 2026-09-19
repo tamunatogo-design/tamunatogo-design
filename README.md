@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Hi there 👋
+
+I am a Freelance Graphic Designer looking for job opportunities and projects! If you're interested, feel free to contact or message me.
+
 <table border="0">
   <tr>
     <td align="center"><a href="10.png"><img src="10.png" width="100%" alt="Logo 1"></a></td>
@@ -30,5 +34,25 @@ Here are some ideas to get you started:
     <td align="center"><a href="77.png"><img src="77.png" width="100%" alt="Logo 7"></a></td>
     <td align="center"><a href="88.png"><img src="88.png" width="100%" alt="Logo 8"></a></td>
     <td align="center"><a href="99.png"><img src="99.png" width="100%" alt="Logo 9"></a></td>
+  </tr>
+</table>
+
+<hr style="border: none; border-top: 2px dashed #ccc; width: 80%; margin: 20px auto;">
+
+<table border="0">
+  <tr>
+    <td align="center"><a href="design-files/11.png"><img src="design-files/11.png" width="100%" alt="Design 1"></a></td>
+    <td align="center"><a href="design-files/12.png"><img src="design-files/12.png" width="100%" alt="Design 2"></a></td>
+    <td align="center"><a href="design-files/13.png"><img src="design-files/13.png" width="100%" alt="Design 3"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="design-files/14.jpg"><img src="design-files/14.jpg" width="100%" alt="Design 4"></a></td>
+    <td align="center"><a href="design-files/15.png"><img src="design-files/15.png" width="100%" alt="Design 5"></a></td>
+    <td align="center"><a href="design-files/17.png"><img src="design-files/17.png" width="100%" alt="Design 6"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="design-files/18.png"><img src="design-files/18.png" width="100%" alt="Design 7"></a></td>
+    <td align="center"><a href="design-files/19.png"><img src="design-files/19.png" width="100%" alt="Design 8"></a></td>
+    <td align="center"><a href="design-files/20.png"><img src="design-files/20.png" width="100%" alt="Design 9"></a></td>
   </tr>
 </table>

@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋
 
 I am a Freelance Graphic Designer looking for job opportunities and projects! If you're interested, feel free to contact or message me.
 

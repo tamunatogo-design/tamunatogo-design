@@ -14,13 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![My Logo](11.png)
-![My Logo](10.png)
-![My Logo](design-files/15.png)
-<div align="center">
-  <a href="https://raw.githubusercontent.com/tamunatogo-design/tamunatogo-design/main/Free-Business-Card-with-Flower-Mockup-01%20copy%20(2)_260906002709.png">
-    <img src="https://raw.githubusercontent.com/tamunatogo-design/tamunatogo-design/main/Free-Business-Card-with-Flower-Mockup-01%20copy%20(2)_260906002709.png" width="200" height="200" style="object-fit: cover;" alt="Business Card Mockup">
-  </a>
-  
-  <!-- შეგიძლიათ გვერდით მიუწეროთ სხვა სურათებიც -->
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="10.png" width="100%" alt="Logo 1"></td>
+    <td align="center"><img src="101.png" width="100%" alt="Logo 2"></td>
+    <td align="center"><img src="22.png" width="100%" alt="Logo 3"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="33.jpg" width="100%" alt="Logo 4"></td>
+    <td align="center"><img src="55.png" width="100%" alt="Logo 5"></td>
+    <td align="center"><img src="67.jpg" width="100%" alt="Logo 6"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="77.png" width="100%" alt="Logo 7"></td>
+    <td align="center"><img src="88.png" width="100%" alt="Logo 8"></td>
+    <td align="center"><img src="99.png" width="100%" alt="Logo 9"></td>
+  </tr>
+</table>

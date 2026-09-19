@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 I am a Freelance Graphic Designer looking for job opportunities and projects! If you're interested, feel free to contact or message me.
 
+
+
 <table border="0">
   <tr>
     <td align="center"><a href="10.png"><img src="10.png" width="100%" alt="Logo 1"></a></td>
